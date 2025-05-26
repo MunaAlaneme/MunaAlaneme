@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,apple)](https://skillicons.dev)
 
+**My Video Editing/3D Apps**
+
+[![My Skills](https://skillicons.dev/icons?i=vegaspro,blender,premiere)](https://skillicons.dev)
+
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,swift,lua,java,unity,blender,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,swift,lua,java,unity,blender)](https://skillicons.dev)
