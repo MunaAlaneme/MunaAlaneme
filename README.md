@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**My Operating Systems**
+
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,apple)](https://skillicons.dev)
+
+**My Skills**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,swift,lua,java,unity,blender,apple)](https://skillicons.dev)
