@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **My Video Editing/3D Apps**
 
-[![My Skills](https://static.wikia.nocookie.net/logopedia/images/a/ac/Vegas_Pro_18.svg/revision/latest?cb=20210624073234)(https://skillicons.dev/icons?i=blender,premiere)](https://skillicons.dev)
+[![My Skills](https://static.wikia.nocookie.net/logopedia/images/a/ac/Vegas_Pro_18.svg/revision/latest?cb=20210624073234) (https://skillicons.dev/icons?i=blender,premiere)](https://skillicons.dev)
 
 **My Skills**
 
