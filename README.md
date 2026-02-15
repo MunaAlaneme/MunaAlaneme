@@ -1,4 +1,4 @@
-![Vegas_Pro_22_logo](https://github.com/user-attachments/assets/e15a1c66-2618-429c-9351-e8e61814db46)## Hi there 👋
+## Hi there 👋
 
 <!--
 **MunaAlaneme/MunaAlaneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **My Video Editing/3D Apps**
 
-[![My Skills](https://skillicons.dev/icons?i=blender,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,premiere)](https://skillicons.dev) ![Vegas_Pro_22_logo](https://github.com/user-attachments/assets/e15a1c66-2618-429c-9351-e8e61814db46)
 
 ![Vegas_Pro_18](https://github.com/user-attachments/assets/50b55258-bc87-438e-92cd-e991334d7367)<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
@@ -300,8 +300,6 @@ Here are some ideas to get you started:
     </g>
   </g>
 </svg>
-![Uploading Vegas_Pro_22_l<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0,0,128,128"><g transform="translate(-256,-116)"><g stroke="none" stroke-width="1.33332" stroke-miterlimit="10"><path d="M256,233.33199v-106.66532c0,-5.888 4.77857,-10.66667 10.66779,-10.66667h106.66442c5.88921,0 10.66779,4.77867 10.66779,10.66667v106.66532c0,5.88934 -4.77858,10.66801 -10.66779,10.66801h-106.66442c-5.88922,0 -10.66779,-4.77867 -10.66779,-10.66801z" fill="#1246ff"/><path d="M305.82421,209.12001l-17.81965,-61.12h12.99174c1.77996,0 3.3426,1.17867 3.84126,2.892l13.68373,47.296c0.08533,0.28667 0.34799,0.47867 0.64665,0.47867h1.66263c0.29733,0 0.55999,-0.192 0.64532,-0.47867l13.68373,-47.296c0.49732,-1.71333 2.06129,-2.892 3.84126,-2.892h12.99175l-17.82232,61.12c-0.49732,1.70533 -2.06396,2.88 -3.83992,2.88h-20.66359c-1.77863,0 -3.34393,-1.17467 -3.84259,-2.88z" fill="#fbfbfb"/></g></g></svg><!--rotationCenter:64:64-->ogo.svg…]()
-
 
 
 **My Skills**
