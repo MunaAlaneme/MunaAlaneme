@@ -301,10 +301,6 @@ Here are some ideas to get you started:
   </g>
 </svg>
 
-
-
-[(https://static.wikia.nocookie.net/logopedia/images/a/ac/Vegas_Pro_18.svg)]
-
 **My Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,swift,lua,java,unity,blender)](https://skillicons.dev)
