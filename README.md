@@ -270,18 +270,6 @@ Here are some ideas to get you started:
        y2="611.55359"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <g
      id="layer1"
      transform="translate(883.19003,-101.328)">
